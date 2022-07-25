@@ -1,0 +1,50 @@
+body {
+    color: #999999;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 650px;
+    margin: 0 auto;
+    padding: 0 26px;
+}
+
+footer {
+    color: #777777;
+    border-top: 1px solid #eeeeee;
+    margin-top: 16px;
+    padding: 16px 0;
+}
+
+header {
+    margin-top: 16px;
+    margin-bottom: 38px;
+}
+
+header h1 {
+    font-size: 44px;
+    margin-bottom: 16px;
+    color: aquamarine;
+}
+
+header a {
+    font-size: 16px;
+    color: purple;
+    /* text-decoration: ; */
+}
+
+.portrait {
+width: 100px;
+}
+
+input {
+    border: 2px solid #eeeeee;
+    padding: 8px;
+    background-color: aqua;
+}
+
+button {
+    cursor: pointer;
+    border: 2px solid olive;
+    background-color: yellowgreen;
+    color: black;
+    padding: 8px;
+   
+}
